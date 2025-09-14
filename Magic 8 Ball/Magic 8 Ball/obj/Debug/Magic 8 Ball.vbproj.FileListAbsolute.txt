@@ -1,0 +1,10 @@
+C:\vb programs\Magic 8 Ball\Magic 8 Ball\bin\Debug\Magic 8 Ball.exe
+C:\vb programs\Magic 8 Ball\Magic 8 Ball\bin\Debug\Magic 8 Ball.pdb
+C:\vb programs\Magic 8 Ball\Magic 8 Ball\bin\Debug\Magic 8 Ball.xml
+C:\vb programs\Magic 8 Ball\Magic 8 Ball\obj\Debug\ResolveAssemblyReference.cache
+C:\vb programs\Magic 8 Ball\Magic 8 Ball\obj\Debug\WindowsApplication1.Form1.resources
+C:\vb programs\Magic 8 Ball\Magic 8 Ball\obj\Debug\WindowsApplication1.Resources.resources
+C:\vb programs\Magic 8 Ball\Magic 8 Ball\obj\Debug\Magic 8 Ball.vbproj.GenerateResource.Cache
+C:\vb programs\Magic 8 Ball\Magic 8 Ball\obj\Debug\Magic 8 Ball.exe
+C:\vb programs\Magic 8 Ball\Magic 8 Ball\obj\Debug\Magic 8 Ball.xml
+C:\vb programs\Magic 8 Ball\Magic 8 Ball\obj\Debug\Magic 8 Ball.pdb
